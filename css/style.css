@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Signika');
+
+body {
+  font-family: "Lora", Garamond, serif;
+  background-image: url("../images/Stars.gif");
+  color: #AF33FF;
+}
+
+.logo {
+  width: 100%;
+}
+
+.img-responsive {
+  background-image: url("../images/RuPaulsDragRace.png");
+  background-size: 100%;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.queenphoto {
+  margin-bottom: 10px;
+}
+
+
+.content-box {
+  background-color: white;
+}
+
+.about {
+  text-align: center;
+}
+
+.Heading {
+  text-align: center;
+}
+
+.Queens {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: "Signika", Helvetica, sans-serif;
+  color: #FF69B4;
+}
+
+.ui-widget-content {
+  color: #AF33FF;
+  font-family: "Lora", Garamond, serif;
+}
+
+.ui-state-default {
+ color:#AF33FF;
+ font-family:"Signika", Helvetica, sans-serif;
+}
+
+#fragment-1 {
+  text-decoration-color: #AF33FF;
+}
+
+.WhosNext {
+  text-align: center;
+}
+
+a {
+  color: #FF69B4;
+}
